@@ -7,14 +7,11 @@
 - ⚡ Fun fact: ...
 
 - ## 🎖 資格・バッジ一覧
-
-[![Google Data Analytics](https://images.credly.com/size/340x340/images/90ca542c-f248-4188-80b3-84e19ddc628d.png)](https://www.credly.com/badges/90ca542c-f248-4188-80b3-84e19ddc628d)  
-Google Data Analytics Professional Certificate (Feb 2025)
-
+- 
+![google-data-analytics-professional-certificate 2](https://github.com/user-attachments/assets/47203899-bbc2-42a7-ab6d-d5d5fea5ea2b)
 
 <!---
 m-u-big/m-u-big is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🎖 資格・バッジ一覧
 
