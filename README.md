@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m-u-big
+- 👋 AWS.Linux勉強中です
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,7 +7,6 @@
 - ⚡ Fun fact: ...
 
 - ## 🎖 資格・バッジ一覧
-- 
 ![google-data-analytics-professional-certificate 2](https://github.com/user-attachments/assets/47203899-bbc2-42a7-ab6d-d5d5fea5ea2b)
 
 <!---
