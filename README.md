@@ -8,10 +8,6 @@
   <img src="https://github.com/user-attachments/assets/f7370f72-098d-4a5c-a9ac-acaa169a29ff" alt="Google Data Analytics Professional Certificate" width="100">
 </a>
 
-
-![google-data-analytics-professional-certificate 2](https://github.com/user-attachments/assets/f7370f72-098d-4a5c-a9ac-acaa169a29ff)
-
-
 <!---
 m-u-big/m-u-big is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
