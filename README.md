@@ -1,10 +1,13 @@
 - 👋 AWS.Linux勉強中です
 
 ## 🏅 資格・バッジ一覧
-<a href="https://www.credly.com/badges/675fe2a4-899b-45a5-a695-c51450d04ff4/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/372909f0-6998-4c37-b3ff-68aec8c74c2b" alt="Microsoft Office Specialist Excel Expert" width="100"></a>
-<a href="https://www.credly.com/badges/90ca542c-f248-4188-80b3-84e19ddc628d/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/f7370f72-098d-4a5c-a9ac-acaa169a29ff" alt="Google Data Analytics Professional Certificate" width="100"></a>
-<a href="https://www.credly.com/badges/34f9f6e4-1fd4-4615-807c-d19fae1cfdc6/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/48e3d973-23aa-4966-8aa6-f5df5668307c" alt="AWS Cloud Quest Practitioner" width="100"></a>
+<a href="https://www.credly.com/badges/675fe2a4-899b-45a5-a695-c51450d04ff4/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/377158d2-9a4b-41ad-9c7c-14f5e636962a" alt="Microsoft Office Specialist Excel Expert" width="100"></a>
+<a href="https://www.credly.com/badges/90ca542c-f248-4188-80b3-84e19ddc628d/public_url" target="_blank"><img src="(https://github.com/user-attachments/assets/6d5b28e0-0663-4c73-890d-ae853c78247c" alt="Google Data Analytics Professional Certificate" width="100"></a>
+<a href="https://www.credly.com/badges/34f9f6e4-1fd4-4615-807c-d19fae1cfdc6/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/d6a4d620-28e8-41bd-b13e-8995e9954124" alt="AWS Cloud Quest Practitioner" width="100"></a>
 
+![microsoft-office-specialist-excel-expert-microsoft-365-apps_340px](https://github.com/user-attachments/assets/377158d2-9a4b-41ad-9c7c-14f5e636962a)
+![google-data-analytics-professional-certificate 2_340px](https://github.com/user-attachments/assets/6d5b28e0-0663-4c73-890d-ae853c78247c)
+![aws-cloud-quest-cloud-practitioner_340px](https://github.com/user-attachments/assets/d6a4d620-28e8-41bd-b13e-8995e9954124)
 
 <!---
 m-u-big/m-u-big is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
