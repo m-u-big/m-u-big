@@ -1,5 +1,3 @@
-- 👋 AWS・Linux 勉強中です
-
 ## 🏅 資格・バッジ一覧
 
 <a href="https://www.credly.com/badges/675fe2a4-899b-45a5-a695-c51450d04ff4/public_url" target="_blank">
@@ -14,8 +12,13 @@
 <a href="https://www.credly.com/badges/9189ac9f-a90c-40b7-98f3-0b2f6cae0632/public_url" target="_blank">
   <img src="https://github.com/user-attachments/assets/2ea31509-356e-4014-9ca0-605f28ae8b1a" alt="AWS Certified Cloud Practitioner" width="100">
 </a>
+<a href="#" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/IT_Passport_Logo.png" alt="ITパスポート" width="100">
+</a>
 
 - Microsoft Excel Expert 365（2024.12）  
 - Google Data Analytics Professional Certificate（2025.2）  
+- ITパスポート（2025.3）
 - AWS Cloud Quest Practitioner（2025.4）  
-- AWS Certified Cloud Practitioner（2025.5）
+- AWS Certified Cloud Practitioner（2025.5）  
+
