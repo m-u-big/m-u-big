@@ -7,4 +7,4 @@
 - ITパスポート（2025.3）
 - AWS Cloud Quest Practitioner（2025.4）  
 - AWS Certified Cloud Practitioner（2025.5）  
-- AWS Knowledge:Architecting (2025/5)
+- AWS Knowledge:Architecting (2025.5)
