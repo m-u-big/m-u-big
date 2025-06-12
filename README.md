@@ -11,15 +11,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m-u-big&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
-
 ---
 
-## NOW TRAINING 🏋️‍♂️
+## 🎮 NOW TRAINING 🏋️‍♂️
 
 <p align="left">
-  <a href="https://twitter.com/Masa36940064" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+    ![akuma-300](https://github.com/user-attachments/assets/bf45200c-c40d-4f76-ab34-a98ff355fb34)
+![ryu-300](https://github.com/user-attachments/assets/3403b884-29fd-4ff7-bb1b-820f4e11c3d7)
+![mai-300](https://github.com/user-attachments/assets/72432f9e-b33e-44d4-aa2a-157214712a7c)
+![cammy-300](https://github.com/user-attachments/assets/6690a848-8afb-413a-85bc-29b105546796)
+
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
