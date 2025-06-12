@@ -14,18 +14,13 @@
 ---
 
 ## 🎮 NOW TRAINING 🏋️‍♂️
-
 <p align="left">
-    ![akuma-300](https://github.com/user-attachments/assets/bf45200c-c40d-4f76-ab34-a98ff355fb34)
-![ryu-300](https://github.com/user-attachments/assets/3403b884-29fd-4ff7-bb1b-820f4e11c3d7)
-![mai-300](https://github.com/user-attachments/assets/72432f9e-b33e-44d4-aa2a-157214712a7c)
-![cammy-300](https://github.com/user-attachments/assets/6690a848-8afb-413a-85bc-29b105546796)
-
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/bf45200c-c40d-4f76-ab34-a98ff355fb34" alt="Akuma" title="Akuma" style="height:48px;width:48px;object-fit:cover;border-radius:50%;" />
+  <img src="https://github.com/user-attachments/assets/3403b884-29fd-4ff7-bb1b-820f4e11c3d7" alt="Ryu" title="Ryu" style="height:48px;width:48px;object-fit:cover;border-radius:50%;" />
+  <img src="https://github.com/user-attachments/assets/72432f9e-b33e-44d4-aa2a-157214712a7c" alt="Mai" title="Mai" style="height:48px;width:48px;object-fit:cover;border-radius:50%;" />
+  <img src="https://github.com/user-attachments/assets/6690a848-8afb-413a-85bc-29b105546796" alt="Cammy" title="Cammy" style="height:48px;width:48px;object-fit:cover;border-radius:50%;" />
 </p>
+<br> <!-- ← ここでスペース調整！ -->
 
 ---
 
