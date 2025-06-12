@@ -1,6 +1,7 @@
-# Backend Developer in Japan 👋  
-### Feel free to contact me anytime! 👍  
-※ Former composer / now training for full-stack / cloud engineer 🎧🛠
+# Internal IT Engineer in Japan 👋  
+### Feel free to reach out — I blend code with groove. 🎧⚙️  
+※ Former music creator, now pursuing the rhythm of cloud engineering.🎸
+
 
 ---
 
