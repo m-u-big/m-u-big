@@ -31,7 +31,7 @@
 <br />
 
 > **Other tools**  
-> CodeIgniter / VirtualBox / CircleCI / WSL / Terraform / AWS CDK
+> VirtualBox / WSL / Terraform /
 
 ---
 
