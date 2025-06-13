@@ -21,6 +21,15 @@
   <img src="https://github.com/user-attachments/assets/6690a848-8afb-413a-85bc-29b105546796" alt="Cammy" title="Cammy" style="height:48px;width:48px;object-fit:cover;border-radius:50%;" />
 </p>
 <br> <!-- ← ここでスペース調整！ -->
+<h2>Character</h2>
+
+<pre>
+Akuma [C]   - <span style="color: purple;">DIAMOND ☆</span>
+Ryu   [C]   - <span style="color: purple;">DIAMOND ☆</span>
+Mai   [C]   - <span style="color: purple;">DIAMOND ☆</span>
+Cammy [C]   - <span style="color: purple;">DIAMOND ☆</span>
+</pre>
+
 
 ---
 
