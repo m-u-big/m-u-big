@@ -1,4 +1,4 @@
-<img width="524" height="133" alt="image" src="https://github.com/user-attachments/assets/546fcee2-e76a-4abc-a29c-72e064d6589c" /># Internal IT Engineer in Japan 👋
+# Internal IT Engineer in Japan 👋
 ### Feel free to reach out — I blend code with groove. 🎧⚙️
 ※ Former music creator, now pursuing the rhythm of cloud engineering.🎸
 
