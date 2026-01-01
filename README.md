@@ -1,14 +1,15 @@
-# Internal IT Engineer in Japan 👋
+<img width="524" height="133" alt="image" src="https://github.com/user-attachments/assets/546fcee2-e76a-4abc-a29c-72e064d6589c" /># Internal IT Engineer in Japan 👋
 ### Feel free to reach out — I blend code with groove. 🎧⚙️
 ※ Former music creator, now pursuing the rhythm of cloud engineering.🎸
 
 ---
 
-![m-u-big's GitHub stats](https://github-readme-stats-m-u-bigs-projects.vercel.app/api?username=m-u-big&show_icons=true&theme=vue-dark)
+![m-u-big's GitHub stats](https://github-readme-stats-roan-theta-58.vercel.app/api?username=m-u-big&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats-m-u-bigs-projects.vercel.app/api/top-langs/?username=m-u-big&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-roan-theta-58.vercel.app/api/top-langs/?username=m-u-big&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m-u-big&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
