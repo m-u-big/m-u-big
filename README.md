@@ -4,9 +4,9 @@
 
 ---
 
-![m-u-big's GitHub stats](https://github-readme-stats-roan-theta-58.vercel.app/api?username=m-u-big&show_icons=true&theme=vue-dark)
+![m-u-big's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-u-big&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats-roan-theta-58.vercel.app/api/top-langs/?username=m-u-big&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-u-big&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=m-u-big&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
