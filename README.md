@@ -92,4 +92,5 @@ Ken   [C]   - <span style="color: orange;">TRAINING 🔥</span>
 - AWS Certified Cloud Practitioner（2025.5）
 - AWS Knowledge: Architecting (2025.5)
 - AWS Cloud Quest: Solutions Architect (2025.5)
-- AWS Certified Solutions Architect – Associate (2025.X)
+- AWS Certified Solutions Architect – Associate (2025.9)
+- Pythonエンジニア基礎認定試験 (2026.1)
