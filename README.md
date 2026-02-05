@@ -5,8 +5,6 @@ Loves: Street Fighter 6, Slots, & Music Composition. 🎰🎧🎸
 
 ---
 
-## 🎮 NOW TRAINING 🏋️‍♂️
-
 ## 🚀 Current Focus & Projects
 * **DX Engineering:** Designing OCR solutions using **Python** & **Google Cloud Vision API**. 🐍👁️
 * **Game Dev:** Building 3D games with **Unity (C#)**. 🎮
