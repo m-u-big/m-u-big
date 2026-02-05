@@ -81,7 +81,8 @@ Ken   [C]   - <span style="color: orange;">TRAINING 🔥</span>
   </a>
   <a href="https://www.credly.com/badges/8d6b26de-fc85-4abf-b9e7-8514a3804a0a/public_url" target="_blank">
     <img src="https://github.com/user-attachments/assets/e092651c-8599-4e29-80d8-85d9451b74f5" alt="AWS Cloud Quest: Solutions Architect" width="100">
-  </a>
+  </a><img width="180" height="180" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/c1c18a9b-4b09-4909-80cb-3619000500bb" />
+
   </div>
 
 - Microsoft Excel Expert 365（2024.12）
