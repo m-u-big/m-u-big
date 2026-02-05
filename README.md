@@ -7,6 +7,11 @@ Loves: Street Fighter 6, Slots, & Music Composition. 🎰🎧🎸
 
 ## 🎮 NOW TRAINING 🏋️‍♂️
 
+## 🚀 Current Focus & Projects
+* **DX Engineering:** Designing OCR solutions using **Python** & **Google Cloud Vision API**. 🐍👁️
+* **Game Dev:** Building 3D games with **Unity (C#)**. 🎮
+* **Audio Dev:** Developing VST plugins (Reverb) using **JUCE (C++)**. 🎹🎛️
+* **Finance:** Studying **Bookkeeping (Nissho Level 3)** to master business logic. 📚💴
 
 ---
 
