@@ -1,36 +1,12 @@
-# Internal IT Engineer in Japan 👋
-### Feel free to reach out — I blend code with groove. 🎧⚙️
-※ Former music creator, now pursuing the rhythm of cloud engineering.🎸
-
----
-
-![m-u-big's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-u-big&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-u-big&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=m-u-big&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
+# Manufacturing Sales & DX Promoter in Japan 🏭
+### Transforming traditional workflows with Python. 🐍✨
+I'm a Sales rep driving Digital Transformation.
+Loves: Street Fighter 6, Slots, & Music Composition. 🎰🎧🎸
 
 ---
 
 ## 🎮 NOW TRAINING 🏋️‍♂️
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/bf45200c-c40d-4f76-ab34-a98ff355fb34" alt="Akuma" title="Akuma" style="height:48px;width:48px;object-fit:cover;border-radius:12px;" />
-  <img src="https://github.com/user-attachments/assets/3403b884-29fd-4ff7-bb1b-820f4e11c3d7" alt="Ryu" title="Ryu" style="height:48px;width:48px;object-fit:cover;border-radius:12px;" />
-  <img src="https://github.com/user-attachments/assets/72432f9e-b33e-44d4-aa2a-157214712a7c" alt="Mai" title="Mai" style="height:48px;width:48px;object-fit:cover;border-radius:12px;" />
-  <img src="https://github.com/user-attachments/assets/6690a848-8afb-413a-85bc-29b105546796" alt="Cammy" title="Cammy" style="height:48px;width:48px;object-fit:cover;border-radius:12px;" />
-  <img src="PLACEHOLDER_FOR_KEN_IMAGE_URL" alt="Ken" title="Ken" style="height:48px;width:48px;object-fit:cover;border-radius:12px;" />
-</p>
 
-<h2>Character</h2>
-
-<pre>
-Akuma [C]   - <span style="color: purple;">DIAMOND ☆</span>
-Ryu   [C]   - <span style="color: purple;">DIAMOND ☆</span>
-Mai   [C]   - <span style="color: purple;">DIAMOND ☆</span>
-Cammy [C]   - <span style="color: purple;">DIAMOND ☆</span>
-Ken   [C]   - <span style="color: orange;">TRAINING 🔥</span>
-</pre>
 
 ---
 
