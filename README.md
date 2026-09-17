@@ -1,43 +1,147 @@
-# Manufacturing Sales & DX Promoter in Japan 🏭
-### Transforming traditional workflows with Python. 🐍✨
-I'm a Sales rep driving Digital Transformation.
-Loves: Street Fighter 6, Slots, & Music Composition. 🎰🎧🎸
+# Manufacturing DX × AI 🏭🤖
+
+### Bridging the gap between the shop floor, business, and technology.
+
+Hi! I'm a **Manufacturing Sales & DX Promoter in Japan**.
+
+I spent **7 years working in logistics operations** before moving into manufacturing.
+
+Today, I work across **Digital Transformation, internal IT, infrastructure, automation, AI, and digital content production**.
+
+My strength is turning vague real-world problems into practical solutions.
+
+> "Can we make this easier?"  
+> "Can we get rid of this paperwork?"  
+> "Can AI help us with this?"
+
+I translate those questions into actual requirements, explore the options, and decide whether the best solution is to **build it, automate it, use SaaS, or work with a vendor**.
+
+Sometimes that means Python.
+
+Sometimes APIs, cloud infrastructure, or AI.
+
+And sometimes... it means opening Blender. 😎
 
 ---
 
-## 🚀 Current Focus & Projects
-* **DX Engineering:** Designing OCR solutions using **Python** & **Google Cloud Vision API**. 🐍👁️
-* **Game Dev:** Building 3D games with **Unity (C#)**. 🎮
-* **Audio Dev:** Developing VST plugins (Reverb) using **JUCE (C++)**. 🎹🎛️
-* **Finance:** Studying **Bookkeeping (Nissho Level 3)** to master business logic. 📚💴
+## 🔗 What I Do
+
+I like working as a connector between:
+
+### **Shop Floor ↔ Business ↔ IT ↔ AI ↔ Vendors**
+
+My work and interests currently span:
+
+- 🤖 **AI-assisted Development**
+  - Using AI and coding agents as part of real-world development workflows
+  - Exploring MCP-based workflows and AI-assisted automation
+
+- 🏭 **Manufacturing DX**
+  - Translating operational problems into technical requirements
+  - Designing practical workflows for people who don't necessarily have technical backgrounds
+  - Supporting digitalization from planning to operation
+
+- 🐍 **Internal Tools & Automation**
+  - Python-based automation
+  - API integration
+  - OCR and document-processing workflows
+  - Building and maintaining small internal systems
+
+- ☁️ **Cloud & Infrastructure**
+  - AWS
+  - Docker
+  - Terraform / Infrastructure as Code
+  - CI/CD
+  - Networking and access control
+  - Infrastructure and vendor coordination
+
+- 🔐 **System Design & Governance**
+  - Permission design
+  - Operational rules
+  - Information management
+  - Security-conscious workflow design
+
+- 🎥 **3D & Digital Content**
+  - Blender
+  - Product visualization
+  - 3D animation
+  - AI-assisted creative workflows
+  - Digital media production for manufacturing
+
+- 🎧 **Audio Production**
+  - 10+ years of DTM / music production
+  - Audio production and sound design
+  - Experience developing audio software with JUCE / C++
 
 ---
 
-## 🧰 Skills
+## 💡 How I Approach Technology
 
-<img src="https://skillicons.dev/icons?i=github,vscode,docker,discord,aws" />
+I didn't start my career in IT.
 
-<br />
+My background is in the **actual workplace — logistics and manufacturing operations**.
 
-> **Other tools**
-> VirtualBox / WSL / Terraform / JUCE / Unity
+That experience still shapes how I approach technology.
+
+### **Understand the actual work first. Then choose the technology.**
+
+I don't believe every problem needs custom software.
+
+Sometimes Python is the answer.
+
+Sometimes it's an API.
+
+Sometimes it's SaaS.
+
+Sometimes the right answer is to bring in a specialist or vendor.
+
+AI has dramatically expanded the range of things I can explore and build, but the goal remains the same:
+
+**Solve the actual problem.**
 
 ---
 
-## 🔧 Currently Training
+## 🚀 Current Focus
 
-<img src="https://skillicons.dev/icons?i=docker,vscode,github,python,cs,unity" />
+I'm especially interested in how **AI can expand what small and medium-sized manufacturing companies can build and operate internally**.
+
+Currently exploring and working with:
+
+- Manufacturing DX
+- AI-assisted software development
+- Coding Agents
+- Python automation
+- API integration
+- Internal information systems
+- Cloud infrastructure
+- Security & access control
+- Blender automation
+- 3D product visualization & animation
+- Digital media workflows
 
 ---
 
-<div align="center">
-  <h1>
-    <img src="https://github.com/user-attachments/assets/0e95380b-b4ce-4e4a-bf52-45e5193916e4" width="200">
-    <img src="https://github.com/user-attachments/assets/3efacf3a-dbc4-4625-b51c-d630b37ffcd02" width="250">
-  </h1>
-</div>
+## 🧰 Tech & Tools
 
-## 🏅 Open Badge
+<p>
+  <img src="https://skillicons.dev/icons?i=python,aws,docker,terraform,github,vscode,linux,blender,unity,cs,cpp" />
+</p>
+
+### Development
+`Python` / `APIs` / `C#` / `C++` / `JUCE`
+
+### Cloud & Infrastructure
+`AWS` / `Docker` / `Terraform` / `GitHub Actions` / `Linux` / `WSL`
+
+### Creative
+`Blender` / `Unity` / `DTM` / `Music Production`
+
+### AI
+`AI-assisted Development` / `Coding Agents` / `MCP-based Workflows`
+
+---
+
+## 🏅 Certifications & Badges
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://www.credly.com/badges/675fe2a4-899b-45a5-a695-c51450d04ff4/public_url" target="_blank">
@@ -61,15 +165,29 @@ Loves: Street Fighter 6, Slots, & Music Composition. 🎰🎧🎸
   <a href="https://www.credly.com/badges/8d6b26de-fc85-4abf-b9e7-8514a3804a0a/public_url" target="_blank">
     <img src="https://github.com/user-attachments/assets/e092651c-8599-4e29-80d8-85d9451b74f5" alt="AWS Cloud Quest: Solutions Architect" width="100">
   </a>
-  <img src="https://github.com/user-attachments/assets/c1c18a9b-4b09-4909-80cb-3619000500bb" alt="aws-certified-solutions-architect-associate" width="100">
+  <img src="https://github.com/user-attachments/assets/c1c18a9b-4b09-4909-80cb-3619000500bb" alt="AWS Certified Solutions Architect – Associate" width="100">
 </div>
 
-- Microsoft Excel Expert 365（2024.12）
-- Google Data Analytics Professional Certificate（2025.2）
-- ITパスポート（2025.3）
-- AWS Cloud Quest Practitioner（2025.4）
-- AWS Certified Cloud Practitioner（2025.5）
-- AWS Knowledge: Architecting (2025.5)
-- AWS Cloud Quest: Solutions Architect (2025.5)
-- AWS Certified Solutions Architect – Associate (2025.9)
-- Pythonエンジニア基礎認定試験 (2026.1)
+- Microsoft Excel Expert 365 — **2024.12**
+- Google Data Analytics Professional Certificate — **2025.02**
+- IT Passport — **2025.03**
+- AWS Cloud Quest Practitioner — **2025.04**
+- AWS Certified Cloud Practitioner — **2025.05**
+- AWS Knowledge: Architecting — **2025.05**
+- AWS Cloud Quest: Solutions Architect — **2025.05**
+- AWS Certified Solutions Architect – Associate — **2025.09**
+- Python Engineer Basic Examination — **2026.01**
+
+---
+
+## 🎮 Outside of Work
+
+**Overwatch 2 / Music Production / Tech Experiments**
+
+🎮 Competitive games  
+🎧 10+ years of music production  
+🛠️ Learning new technology by actually building things
+
+If something looks useful, interesting, or slightly ridiculous...
+
+I'll probably try building it. 😎
